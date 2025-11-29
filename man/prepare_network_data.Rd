@@ -143,8 +143,7 @@ objects:
 \item \code{parties}: network of detected party clusters (via community detection applied
 on \code{bipartite} network).
 \item (\code{cores}): higher-level clusters of \code{parties}. Cores are currently experimental
-and will not appear in the standard output network data. See \strong{Note}
-below.
+and will not appear in the standard output network data. See \strong{Note}.
 \item \code{elections}: inter-election candidate flow and election-level stats
 }
 
@@ -161,8 +160,8 @@ seats, plurality index, voter turnout for each election, etc.).
 }
 
 \examples{
-data(sample_diff_varnames, package = "lpanda")
-df <- sample_diff_varnames
+data(sample_different_varnames, package = "lpanda")
+df <- sample_different_varnames
 str(df) # different variable names: "party" and "seat"
 input_variable_map <- list(list_name = "party", elected = "seat")
 \donttest{
