@@ -1,7 +1,7 @@
-b7755729da8ddc05b9b188f405e03459 *DESCRIPTION
+ec22ee8df236180258d3d66f7d468b64 *DESCRIPTION
 d31890e85bd5b411f6212d93c2bf44e2 *LICENSE
 f7447d0979cb5e16ef2002c8bfc6369f *NAMESPACE
-79a94771a0169675632a5c99e00de26a *NEWS.md
+4b19477ded9ea598c91b325292255835 *NEWS.md
 c0313bab158e25c56beac4495090b270 *R/lpanda-package.R
 f3e037d5e14516c8dedc70447e491c5d *R/municipalities.R
 388d33bb899c33172147968f99fa13f6 *R/plot_continuity.R
@@ -10,9 +10,9 @@ c805fcee3e00426c0996c07fcfca2315 *R/prepare_network_data.R
 a9b39509a5e8645ebdaed1c44be5d9d7 *R/sample_data.R
 85c9a533276270e8bd4302fe6ad92589 *R/select_elections.R
 2fbe5c3b62613b70d9e849d584c7e982 *R/sysdata.rda
-2f248bfa41bb4d829e85b278ab34348f *R/text_conversion.R
+8c5da8bd11d1fdb44cd9adc93b4d58c4 *R/text_conversion.R
 f1e2cb3e8adfdf9246dbf855482d446c *R/zzz.R
-3b5c626b3982c8d8ad7a4b96be8dd025 *README.md
+c046c4c2ad17a21713f6a36e72fc70e7 *README.md
 b16f33a323deb3bf188669a0861bc808 *data/Bublava_SO_cz.rda
 8f6fd9708c08a6dafea6fe9d0875b92a *data/Cernosice_PZ_cz.rda
 0ccb9c42f9037c7f05104b52eb5dfe14 *data/Dasnice_SO_cz.rda
@@ -31,7 +31,7 @@ a438de69d54b23807f35c73414742bde *data/Potucky_KV_cz.rda
 480206b3701926d9cc12ff35ec9caf5c *data/sample_no_continuity.rda
 ea9a1bccefcb5b2f17fc60862a833891 *data/sample_no_pluralism.rda
 409ae367d766751b17e396b3a3e4a92a *data/sample_no_switching.rda
-695b6ff44ffa69891fdae778e8dcb256 *inst/CITATION
+dba08f85934a5f5644ae9b0eb6dffbbd *inst/CITATION
 1ded90309fc44924ee16f40048171d4e *man/Bublava_SO_cz.Rd
 4f2c59277820b82d824cb32dcc2407f5 *man/Cernosice_PZ_cz.Rd
 4ea389fbe7f753f1af0c60316247b38a *man/Dasnice_SO_cz.Rd
@@ -44,10 +44,10 @@ f05ca5ecd5c654d9fa4f27eebee60ca3 *man/Kamenna_CB_cz.Rd
 15a1abb0ffcb2b7fa9568f92aee40ea1 *man/Potucky_KV_cz.Rd
 c191eb025c31f7897b8af45ebecd03e8 *man/Prameny_CH_cz.Rd
 ac5121da1fc85178d2c9c9bfb3663e03 *man/Roztoky_PZ_cz.Rd
-c575fca777083ad813d6eac7b61afef5 *man/figures/README-basic_continuity_diagram-1.png
-2c4f2709815f10ace970f7c3f34d0161 *man/figures/README-continuity_snapshots-1.png
-b8375bbe402b4d1c6a294add1bfb5aa9 *man/figures/README-continuity_use-1.png
-9e829c82c3eaacb56fbb2e540cf1cd50 *man/figures/README-continuity_use-2.png
+8f26d84d079cad4e226dd01e562ef3a2 *man/figures/README-basic_continuity_diagram-1.png
+975edabd85419313c48f236a1e716029 *man/figures/README-continuity_snapshots-1.png
+96fea40837f4fabb0f2d9499b2dee2d8 *man/figures/README-continuity_use-1.png
+18acd9816dc596ee3f9d10923c933ef0 *man/figures/README-continuity_use-2.png
 242b2249270b0069daa6cc03907c7008 *man/figures/logo.png
 287b21abefaaa9f296fed2a3a032cc4c *man/lpanda-package.Rd
 f23542364970e268ee60d67c98a3addb *man/plot_continuity.Rd
@@ -65,4 +65,4 @@ e4125bb3b1bd43e00eec541aaaae2f10 *tests/testthat/test-plot_continuity.R
 4fadc59e4bec26077437d36f78089145 *tests/testthat/test-prepare_network_data.R
 7775253d01b34eed48aea6f7e6c9e2fa *tests/testthat/test-sample_data.R
 56684665f29b790807077634287d015b *tests/testthat/test-select_elections.R
-a9b219602b669aca6911aec254398284 *tests/testthat/test-text_conversion.R
+303479968fe0a1c84842bb2ddee40606 *tests/testthat/test-text_conversion.R
